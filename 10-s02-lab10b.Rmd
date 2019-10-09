@@ -15,7 +15,7 @@ Both chapters are really short but give a good basis to understanding correlatio
 
 **Visualisation**
 
-* Have a look at this visualisation of correlations by Kristoffer Magnusson: <a href = "https://rpsychologist.com/d3/correlation/" target = "_blank">https://rpsychologist.com/d3/correlation/</a>. 
+* Have a look at this visualisation of correlations by Kristoffer Magnusson: [https://rpsychologist.com/d3/correlation](https://rpsychologist.com/d3/correlation){target = "_blank"} 
 
 1. After having read Miller and Haden Chapter 11, use this visualisation page to visually replicate the scatterplots in Figures 11.3 and 11.4 - use a sample of 100.  After that, visually replicate the scatterplots in Figure 11.5. Each time you change the correlation, pay attention to the shared variance (the overlap between the two variables) and see how this changes with the changing level of association. 
 2. Also, try setting the correlation to r = .5 and then moving a sinlge dot to see how one data point, a potential outlier, can change the stated correlation value between two variables
